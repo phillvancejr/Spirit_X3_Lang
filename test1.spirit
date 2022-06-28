@@ -1,0 +1,9 @@
+a = 10
+b = 5
+print_num(a + b)
+print_char(72)
+print_char(101)
+print_char(108)
+print_char(108)
+print_char(111)
+print_char(10)
